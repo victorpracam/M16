@@ -1,0 +1,19 @@
+﻿  LANCHA.cpp
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(21,10): error C2535: 'void LANCHA::Lancha(int,int,int,std::string)': función miembro ya definida o declarada
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(19,10): message : vea la declaración de 'LANCHA::Lancha'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(37,10): error C2365: 'LANCHA::velocity': nueva definición; la definición anterior era 'miembro de datos'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(7,9): message : vea la declaración de 'LANCHA::velocity'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.cpp(15,14): error C2084: la función 'void LANCHA::Lancha(int,int,int,std::string)' ya tiene un cuerpo
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.cpp(11,14): message : vea la definición anterior de 'Lancha'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.cpp(64,1): error C2063: 'LANCHA::velocity': no es una función
+  MAIN.cpp
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(21,10): error C2535: 'void LANCHA::Lancha(int,int,int,std::string)': función miembro ya definida o declarada
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(19,10): message : vea la declaración de 'LANCHA::Lancha'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(37,10): error C2365: 'LANCHA::velocity': nueva definición; la definición anterior era 'miembro de datos'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(7,9): message : vea la declaración de 'LANCHA::velocity'
+  LANCHAS.cpp
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(21,10): error C2535: 'void LANCHA::Lancha(int,int,int,std::string)': función miembro ya definida o declarada
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(19,10): message : vea la declaración de 'LANCHA::Lancha'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(37,10): error C2365: 'LANCHA::velocity': nueva definición; la definición anterior era 'miembro de datos'
+F:\OneDrive - Centre d'Estudis Monlau\1ASIX\M16\LANCHAS\JUEGODELASLANCHAS1\LANCHA.h(7,9): message : vea la declaración de 'LANCHA::velocity'
+  Generando código...
